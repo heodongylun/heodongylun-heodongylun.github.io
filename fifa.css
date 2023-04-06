@@ -1,0 +1,17 @@
+*, html, body
+{
+margin: 0;
+padding: 0;
+}
+header{
+    text-align:center;
+   background-color:aqua
+    
+}
+nav{
+    background-color: gold;
+}
+ul li{
+    display: inline-block;
+    padding-left:100px;
+}
